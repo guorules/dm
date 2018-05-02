@@ -1,0 +1,10 @@
+# Instructions for Exercises
+
+1. Get a github account from http://github.com
+2. Let me know your github username and I will add you as a collaborator for the repository https://github.com/guorules/dm
+3. Create a folder (with your name) in https://github.com/guorules/dm/edit/master/Week_04-20
+4. Use https://github.com/guorules/dm/blob/master/Week_04-20/input.txt (one integer per line) as the input file and write a program (in any language) to do the following:
+(1) Read in the file (line by line) and store the integers into one data structure of your choice.
+(2) Compute the following stats: minimum, Q1, median, Q2, maximum, and output the values to standard output.
+(3) Draw the histogram for the given input.
+5. Check in your program (code) to your folder and upload the histogram as an image to your folder
