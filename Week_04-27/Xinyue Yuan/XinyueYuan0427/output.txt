@@ -1,0 +1,14 @@
+Frequency of Document1 Keywords:
+MESSI: 6
+BARCELONA: 1
+SUAREZ: 3
+TITLE: 1
+SOCCER: 0
+Frequency of Document2 Keywords:
+MESSI: 6
+BARCELONA: 1
+SUAREZ: 2
+TITLE: 2
+SOCCER: 0
+
+Cosine Similarity: 0.9784921095801633

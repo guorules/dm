@@ -1,0 +1,10 @@
+1. Create a folder (with your name) in https://github.com/guorules/dm/edit/master/Week_04-27
+2. Read through "Cosine Similarity" on page 15 and 16 of Lecture #3.
+3. Write a program (in any language) to read in document1.txt and document2.txt, and compute the frequency of the followinig keywords (case insensitive):
+(1) Messi
+(2) Barcelona
+(3) Suarez
+(4) Title
+(5) Soccer
+4. Compute the Cosine Similarity.
+5. Check in your program (code) to your folder and write the final result (cosine similarity) in a file called output.txt.
