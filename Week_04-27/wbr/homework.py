@@ -5,6 +5,7 @@ Type "copyright", "credits" or "license()" for more information.
 >>> import os
 >>> import re
 >>> import numpy as np
+>>> import math
 >>> a=[]
 >>> b=[]
 >>> os.chdir("C://Users//wangshaoxin//Desktop//datawajue//4.27")
