@@ -1,0 +1,15 @@
+Check frequency from document1:
+  (' Messi:', 6)
+  (' Barcelona:', 1)
+  (' Suarez:', 3)
+  (' Title:', 1)
+  ('Soccer:', 0)
+
+Check frequency from document2:
+  (' Messi:', 6)
+  (' Barcelona:', 1)
+  (' Suarez:', 2)
+  (' Title:', 2)
+  (' Soccer:', 0)
+
+('Cosine Similarity is', 0.9784921095801633)
