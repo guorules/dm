@@ -1,2 +1,10 @@
 
-http://api.bitcoincharts.com/v1/csv/
+1. Create a folder (with your name) in https://github.com/guorules/dm/tree/master/project
+2. Data Source: http://api.bitcoincharts.com/v1/csv/
+3. Write a program (in any language) to do the following:
+(a) Read in all the data from the data source.
+(b) 
+
+
+
+3. Check in your program (code) to your folder and write the final result in a file called output.txt.
