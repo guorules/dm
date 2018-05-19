@@ -1,0 +1,12 @@
+[{'apple'},
+ {'bread'},
+ {'butter'},
+ {'butter', 'diaper'},
+ {'cheese'},
+ {'chocolate'},
+ {'diaper'},
+ {'juice'},
+ {'milk'},
+ {'orange'},
+ {'yogurt'},
+ {'orange', 'yogurt'}]
