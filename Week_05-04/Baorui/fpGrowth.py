@@ -146,5 +146,10 @@ def fpGrowth(dataSet, minSup=3):
 
     return freqItems
 
-        
-        
+ #开始用给的数据找出频繁项
+    parsedDat = [line.split() for line in open('data1.txt').readlines
+    import fpGrowth             
+    myFPtree, myHeaderTab = fpGrowth.createTree(initSet, 250)
+    myFreqList = []
+    fpGrowth.mineTree(myFPtree, myHeaderTab, 250, set([]), myFreqList) 
+    myFreqList             
