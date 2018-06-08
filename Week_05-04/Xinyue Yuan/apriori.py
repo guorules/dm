@@ -170,3 +170,5 @@ rules = generateRules(L, supportData, minConf=0.7)
 #frozenset([5]) --> frozenset([2]) conf: 1.0
 #frozenset([2]) --> frozenset([5]) conf: 1.0
 print rules
+                            
+#####https://www.cnblogs.com/qwertWZ/p/4510857.html
